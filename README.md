@@ -1,4 +1,4 @@
-# For init
+# Run code
 ## Available Scripts
 
 # libs
