@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # libs
 ### `npm i react`
+### `yarn add react-scripts`
 ### `yarn react-redux`
 ### `yarn add react-router-dom`
 ### `yarn add redux`
