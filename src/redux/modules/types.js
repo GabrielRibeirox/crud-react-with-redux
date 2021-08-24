@@ -1,0 +1,6 @@
+export const ENTER_SUCCESS = 'ENTER_SUCCESS';
+export const ENTER_REQUEST = 'ENTER_REQUEST';
+export const ENTER_FAILURE = 'ENTER_FAILURE';
+export const POST_CREATE = 'POST_CREATE';
+export const POST_UPDATE = 'POST_UPDATE';
+export const POST_DELETE = 'POST_DELETE';

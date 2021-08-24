@@ -1,0 +1,32 @@
+form{
+  margin: 3rem 0 4rem;
+  label{
+    font-size:1.6rem;
+
+    #title{
+        height: 2.8rem;
+        margin-bottom: 3rem;
+    }
+    #content{ 
+      margin-top: 0.5rem;
+      height: 7.4rem;
+      width: 100%;
+      resize: none;
+      padding: 12px 20px;
+      font-family: Roboto;
+      font-size:1.35rem;
+      border: 1px solid #ccc;
+  }
+  }
+  
+  input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+}

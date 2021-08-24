@@ -1,0 +1,48 @@
+.content-post{
+  margin: 4rem 7rem 4rem;
+  border: 1px solid #c5c3c3;
+  border-radius: 0.3rem;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  margin-bottom: 3rem;
+
+  .header-post{
+      display:flex;
+      
+      justify-content: space-between;
+      color: white;
+      background: #000000;
+      height:8rem;
+      font-size: 2.2rem;
+      padding: 2.4rem;
+
+    .items{
+      display: flex;
+      button{
+        border:none;
+        background: black;
+        height:2.5rem;
+
+        i{
+          color: white;
+          font-size: 2.5rem;
+        }
+      }
+      .modal-content{
+  margin-left: 1.5rem;
+}
+    
+
+        
+  
+
+    }
+    .items:first-child{
+      font-size: 10rem;
+    }
+
+  }
+  p{
+    padding: 2rem 3rem;
+    font-size:1.8rem;
+  }
+}

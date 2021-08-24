@@ -1,0 +1,58 @@
+.content{
+  margin: 0 30rem 7rem 30rem;
+  background: white;
+  flex-direction:  column;
+  min-height: 100vh;
+  height: 100%;
+  padding-bottom: 4rem;
+  
+
+  
+.content-question{
+    margin: 7rem 7rem 0 7rem;
+    padding: 2rem 3rem;
+    border: 1px solid #c5c3c3;
+    border-radius: 0.3rem;
+    
+
+        form{
+          margin: 3rem 0 4rem;
+          label{
+            font-size:1.6rem;
+
+            #name{
+                height: 2.8rem;
+                margin-bottom: 3rem;
+            }
+            #content{ 
+              margin-top: 0.5rem;
+              height: 7.4rem;
+              width: 100%;
+              resize: none;
+              padding: 12px 20px;
+              font-family: Roboto;
+              font-size:1.35rem;
+          }
+          }
+          
+          input{
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+          }
+          
+        }
+}
+  
+}
+.back-drop {
+  background: rgba(63, 61, 61, 0.692);
+  height: 100%;
+  position: fixed;
+  transition: all 1.3s;
+  width: 100%;
+}
