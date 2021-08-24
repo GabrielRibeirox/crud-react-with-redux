@@ -5,10 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 # libs
+### `npm i react`
 ### `yarn react-redux`
 ### `yarn add react-router-dom`
 ### `yarn add redux`
 ### `yarn add node-sass@4.14.1`
+
 
 In the project directory, you can run:
 ### `yarn start`
